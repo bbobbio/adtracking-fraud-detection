@@ -1,5 +1,5 @@
 getwd()
-setwd("/home/bbobbio/dev/R/Curso R/adtracking-fraud")
+setwd()
 
 df = read.csv("train_sample.csv", header = TRUE, sep = ",", stringsAsFactors = F)
 
